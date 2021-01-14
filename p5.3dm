@@ -1,2 +1,2 @@
-{label="goku 5",tooltip="goku",emitRedstone=false, buttonMode = false, collidable = {true,true},shapes = 
+{label="goku 5",tooltip="goku",emitRedstone=false, buttonMode = false, collidable = {true,true},shapes = {
 }}
